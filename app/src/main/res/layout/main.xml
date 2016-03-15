@@ -1,0 +1,44 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundled"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#2aff04"
+        android:textStyle="bold"
+        android:textSize="45sp"
+        android:text="LED WAREHOUSE - buy 5 or more and save 20%" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:id="@+id/linearMain"
+	    >
+
+     </LinearLayout>
+    <Button android:id="@+id/second"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Checkout"
+	/>
+
+</LinearLayout>
+</HorizontalScrollView>
+</ScrollView>
