@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-
 public class Screen2 extends Activity{
 
 	/* (non-Javadoc)
@@ -15,7 +14,7 @@ public class Screen2 extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.screen2);
-////change
+
 
 		TextView showCartContent = (TextView) findViewById(R.id.showcart);
 
@@ -26,7 +25,6 @@ public class Screen2 extends Activity{
 
 		String show = "";
 		/// display the items in the cart with a loop
-		//change
 
 		for (int i = 0; i < CartSize; i++) {
 
@@ -37,7 +35,7 @@ public class Screen2 extends Activity{
 			String pDisc = ct.getCart().getProducts(i).getProductDesc();
 				///just so the list is itemized 1 through max rather than 0 through max
 				int inclusiveI = i+1;
-			show += inclusiveI + ". " + "Product Name: " + pName + "\n " + "   Description :  " + pDisc + "\n" + "    Price :  " + pPrice + "\n" +
+			show += inclusiveI + ". " + "Product Name: " + pName + "\n " + "   Discription :  " + pDisc + "\n" + "    Price :  " + pPrice + "\n" +
 					"---------------------------------------------------------------------------------- \n";
 
 
@@ -57,12 +55,10 @@ public class Screen2 extends Activity{
 		showCartContent.setText(show + pTotal);
 
 
-	}///end of onCreate
+	}
 	
 	 
 	
 	
 
 }
-
-
