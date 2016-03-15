@@ -26,6 +26,7 @@ public class Screen2 extends Activity{
 
 		String show = "";
 		/// display the items in the cart with a loop
+		
 
 		for (int i = 0; i < CartSize; i++) {
 
