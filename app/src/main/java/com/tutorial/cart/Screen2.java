@@ -15,7 +15,7 @@ public class Screen2 extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.screen2);
-
+////change
 
 		TextView showCartContent = (TextView) findViewById(R.id.showcart);
 
