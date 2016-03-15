@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
 import android.widget.Toast;
-
+///change
 public class MainActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
