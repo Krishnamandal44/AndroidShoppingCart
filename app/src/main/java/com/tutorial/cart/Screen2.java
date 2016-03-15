@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 
-public class Screen2 extends Activity implements TaxCalc{
+public class Screen2 extends Activity{
 
 	/* (non-Javadoc)
 	 * @see android.app.Activity#onCreate(android.os.Bundle)
