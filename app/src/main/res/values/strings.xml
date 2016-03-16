@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">CartExample</string>
+    <string name="txnmsg">Here Is Your Transaction:</string>
+    <string name="gpsbutton">Get GPS Location</string>
 
 </resources>

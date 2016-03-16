@@ -2,11 +2,214 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\BenG\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\BenG\AndroidStudioProjects\ShoppingCart\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-1488937907145ddaa418dc2cb71204d7a1034790.jar" />
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-b48d2fe45319d50c4265662d7cdc42b09113d6cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-df741b4f48fc0d04a3fe0d00496753d5f0b520cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-cfbc0dbfdc9ceebdb9402e7d2bb82d079c4afbf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-b26a7c222fd9ada52a35b1ae3dcfad738ed12fc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-d63f7d38042fa7d89488eebf6b645816193c2d3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-1e9c5b8ed20e3320a98801232039322f2b2a6d34.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-d66e8c6dbd3c8c6008be35ae998039d07a0de768.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-e1a177456fc1fe1f8dc15de9ace80345083fe07e.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-5d68c0119f42c470719373396c2b6c9f326f977c.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-7eb52b3cf8743614996b9a857eba6ee41425fa93.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-16e432ee9d84ebff68edccf9c53f7926fa3df33e.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-7aaca6df29ea6f05dec480acdf32bbacd74a40ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-59e5f82ee3041a2d01de570254323b9679912798.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-fa0087f534a7408d401d6b10831a2c1e3cbbe11e.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-e51316bc7de3b493e5baaaafb7ff64633332d2f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-abb7daf381039f8a399cf28e7377beced7710788.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-a610ada335749379cc39ff9e7c5b15b1b4a6730a.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-04a7ff6c86831cedcc97e39fafc60496cc37b263.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-352e1a7ffe1e063a296357ccb15de814f18e957a.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-c30331f0bcefaf5bd17879a132f958b4427c1d92.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-f0ca9550b594095e477ca8921f0ad4274d258af8.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-1485d2887dba29fb4184562f99ba879cb7e04a78.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-5c1ce0c6da2cf553dfc39d8561eb0dfae1832951.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-5e88588485d81d8f091a316bd907e6d2796d2baf.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-c91fdb747da1d79eb25adf2380b4f6a2cb74624e.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-0a608be55de1fce0f3e2eadd62fcf7fc6bf0d93d.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-f833f6d85cc654079db8eaf2ce64c6d79fcb2721.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-ae61eab32442e4b372eeb364d2fdd66da596fea0.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-81dcb0d2f0abc3c49c8c371674d0e6a5a37e0aaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\BenG\AndroidStudioProjects\AndroidShoppingCartApp\app\build\intermediates\pre-dexed\debug\classes-33fe5eb83ba0010622cfd802f6f3a542437d6320.jar" />
     </item>
 
 </items>

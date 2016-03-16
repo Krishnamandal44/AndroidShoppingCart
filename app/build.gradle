@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 14
-    buildToolsVersion "22.0.1"
+    compileSdkVersion 'Google Inc.:Google APIs:23'
+    buildToolsVersion '23.0.1'
 
     defaultConfig {
         applicationId "com.tutorial.cart"
@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.android.gms:play-services:8.4.0'
 }
